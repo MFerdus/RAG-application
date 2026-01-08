@@ -1,0 +1,8 @@
+streamlit>=1.33.0
+python-dotenv>=1.0.1
+youtube-transcript-api>=0.6.2
+langchain>=0.2.10
+langchain-openai>=0.1.17
+langchain-community>=0.2.10
+faiss-cpu>=1.8.0
+tiktoken>=0.7.0
