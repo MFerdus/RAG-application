@@ -1,6 +1,6 @@
 
 
-```markdown
+markdown
 # YouTube Chat Application using RAG (LangChain + Streamlit)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system that allows users to **chat with any YouTube video**.  
