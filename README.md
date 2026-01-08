@@ -189,12 +189,7 @@ http://localhost:8501
 
 ---
 
-## 📜 License
 
-This project is intended for **educational and portfolio use**.
-You are free to extend and adapt it with proper attribution.
-
----
 
 ## 🙌 Acknowledgements
 
@@ -206,19 +201,7 @@ You are free to extend and adapt it with proper attribution.
 
 ---
 
-⭐ **If you find this project useful, please star the repository!**
 
-```
-
----
-
-If you want, I can also:
-- Optimize it for **recruiters**
-- Rewrite it for **NIW / research portfolio**
-- Add **screenshots section**
-- Create a **project architecture diagram**
-
-Just tell me 👍
 ```
 
 
