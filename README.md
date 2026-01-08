@@ -168,14 +168,6 @@ http://localhost:8501
 
 ---
 
-## ⚠️ Limitations
-
-* Requires YouTube videos with available transcripts
-* Very long videos may take time to index
-* OpenAI API usage incurs cost
-* Responses are limited to transcript content only
-
----
 
 ## 🔮 Future Enhancements
 
