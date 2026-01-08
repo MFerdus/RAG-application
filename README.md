@@ -169,32 +169,15 @@ http://localhost:8501
 ---
 
 
-## 🔮 Future Enhancements
-
-* Embed YouTube video player in UI
-* Persist FAISS index to disk
-* Hybrid search (keyword + semantic)
-* Reranking and contextual compression
-* RAG evaluation using RAGAS
-* Agentic RAG (tool usage, browsing)
-* Multimodal RAG (images + text)
 
 ---
 
 
 
-## 🙌 Acknowledgements
-
-* LangChain
-* Streamlit
-* OpenAI
-* FAISS
-* YouTubeTranscriptApi
-
----
 
 
-```
+
+
 
 
 
